@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my website! My name is Sedi, and I'm a data enthusiast with a keen interest in energy. Through this platform, I aim to demonstrate the practical applications of data analytics in optimizing energy projects through the following examples: 
 
-1. Using Data Analytics to Manage a Solar Power Plant (in progress)
+1. [Using Data Analytics to Manage a Solar Power Plant (in progress)](https://github.com/sedimir/SediMir/blob/main/solar-power-generation.ipynb)
 2. Data Wrangling and Feature Engineering for Energy Datasets (coming soon)
 3. Machine Learning and Power Generation Forcasting (coming soon) 
 
