@@ -2,7 +2,7 @@
 Welcome to my page! My name is Sedi, and I'm a data enthusiast with a keen interest in renewable energy. Through this platform, I aim to demonstrate the practical applications of data analytics in optimizing energy projects through the following examples: 
 
 1. [Conducting Exploratoy Data Analysis (EDA) to gain insights into the power generation data](https://github.com/sedimir/SediMir/blob/main/solar-power-generation.ipynb)
-2. [Machine Learning and Power Generation Forcasting](https://github.com/sedimir/SediMir/blob/main/machine-learning-forecasting-power-generation.ipynb))
+2. [Machine Learning and Power Generation Forcasting](https://github.com/sedimir/SediMir/blob/main/machine-learning-forecasting-power-generation.ipynb)
 
 
 While my page is currently a work in progress, I am excited to share my insights on how data analysis can help achieve greater project efficiency and cost-effectiveness in the renewable energy sector.
